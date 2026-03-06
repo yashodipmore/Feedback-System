@@ -120,8 +120,8 @@ task2-feedback-system/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yashodipmore/Fynd-AI-Intern-Take-Home-Assessment-2.0.git
-cd Fynd-AI-Intern-Take-Home-Assessment-2.0/task2-feedback-system
+git clone https://github.com/yashodipmore/Feedback-System.git
+cd Feedback-System/task2-feedback-system
 
 # Install dependencies
 npm install
@@ -198,10 +198,9 @@ Deployed on **Vercel**:
 
 ---
 
-## Requirements Checklist
+## Features
 
-- [x] Production-style web application (Not Streamlit/Gradio)
-- [x] Real web framework (Next.js 14)
+- [x] Production web application built with Next.js 14
 - [x] Two separate dashboards (User + Admin)
 - [x] Star rating input (1-5)
 - [x] Optional text review
@@ -218,4 +217,4 @@ Deployed on **Vercel**:
 
 **Yashodip More**
 
-Built for Fynd AI Intern Take Home Assessment 2.0
+Built by Yashodip More
