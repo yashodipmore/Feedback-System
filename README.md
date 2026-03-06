@@ -1,6 +1,6 @@
-# Fynd AI Intern - Take Home Assessment 2.0
+# Feedback System
 
-A comprehensive AI assessment featuring rating prediction via LLM prompting and a production-grade dual-dashboard feedback system.
+A comprehensive project featuring rating prediction via LLM prompting and a production-grade dual-dashboard feedback system.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
@@ -34,7 +34,7 @@ A comprehensive AI assessment featuring rating prediction via LLM prompting and 
 
 ## Project Overview
 
-This assessment consists of two tasks:
+This project consists of two tasks:
 
 | Task | Description |
 |------|-------------|
@@ -236,7 +236,7 @@ npm run dev
 ## Project Structure
 
 ```
-Fynd-AI-Intern-Take-Home-Assessment-2.0/
+Feedback-System/
 ├── README.md
 │
 ├── task1-rating-prediction/
@@ -266,17 +266,17 @@ Fynd-AI-Intern-Take-Home-Assessment-2.0/
 
 ---
 
-## Requirements Checklist
+## Features
 
-### Task 1
+### Rating Prediction
 - [x] Multiple prompting approaches (Zero-Shot, Few-Shot, CoT)
 - [x] Structured JSON output format
 - [x] Evaluation metrics (Accuracy, MAE, JSON validity)
 - [x] Per-class accuracy analysis
 - [x] Prompt iteration documentation
 
-### Task 2
-- [x] Production web application (Not Streamlit/Gradio)
+### Feedback System
+- [x] Production web application
 - [x] User Dashboard with star rating & review
 - [x] AI-generated responses displayed to user
 - [x] Admin Dashboard with analytics & charts
@@ -296,4 +296,4 @@ Fynd-AI-Intern-Take-Home-Assessment-2.0/
 
 ---
 
-Built for Fynd AI Internship Assessment 2.0
+Built by Yashodip More
